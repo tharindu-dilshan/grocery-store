@@ -1,5 +1,7 @@
 # JAVA Grocery Store
 
+![IMAGE](https://drive.google.com/file/d/1IL_K0uo97rFUCE_NdIKJO3pPdayLNvDM/view?usp=sharing)
+
 ## Introduction
 To gain the efficiency of the minimart, we try to develop a computerized system to maintain
 their efficiency. According to the feasibility study we able to find important facts for our new
@@ -37,3 +39,33 @@ will give us the best answers for the project.
     Manual calculations have errors and take a lot of time this may result in incorrect information.
 5. Less security.
     Information can be destroyed and those can access to anyone.
+
+## Requirement Analysis Process
+
+Mainly I identified about formation of all task of a minimart and formation of how the already
+doing those tasks. Also, I analyzed information that currently not keeping and I got details about
+the minimart transactions.
+
+## Use Case Diagram
+
+![IMAGE](https://drive.google.com/file/d/1A0S3jP-K35OerLzTk4ENwcdDt1laa8by/view?usp=sharing)
+
+
+## ER Diagram of Database
+
+![IMAGE](https://drive.google.com/file/d/1TjiMohCiR3p3Q4_Sqyx9AIeIAcayEbif/view?usp=sharing)
+
+
+## System Design
+
+The system has a three-tier architecture.
+
+**Front Tier**
+o This tier designs interfaces.
+o NetBeans and modern UI designs were used to design interfaces.
+• Middle Tier
+o This layer makes all instructions.
+o MVC design pattern was used to coding the system.
+• Recourse Tier
+o This tier stores data.
+o MySQL Database Management System was used to store data.
