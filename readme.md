@@ -1,6 +1,6 @@
 # JAVA Grocery Store
 
-![IMAGE](https://drive.google.com/file/d/1IL_K0uo97rFUCE_NdIKJO3pPdayLNvDM/view?usp=sharing)
+![IMAGE](https://ibb.co/kfQDX0)
 
 ## Introduction
 To gain the efficiency of the minimart, we try to develop a computerized system to maintain
@@ -48,12 +48,12 @@ the minimart transactions.
 
 ## Use Case Diagram
 
-![IMAGE](https://drive.google.com/file/d/1A0S3jP-K35OerLzTk4ENwcdDt1laa8by/view?usp=sharing)
+![IMAGE](https://ibb.co/nA7hQL)
 
 
 ## ER Diagram of Database
 
-![IMAGE](https://drive.google.com/file/d/1TjiMohCiR3p3Q4_Sqyx9AIeIAcayEbif/view?usp=sharing)
+![IMAGE](https://ibb.co/jteU5L)
 
 
 ## System Design
