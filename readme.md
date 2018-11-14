@@ -48,12 +48,12 @@ the minimart transactions.
 
 ## Use Case Diagram
 
-![IMAGE](https://ibb.co/nA7hQL)
+![IMAGE](https://preview.ibb.co/mcW95L/Use-case-diagram.png)
 
 
 ## ER Diagram of Database
 
-![IMAGE](https://ibb.co/jteU5L)
+![IMAGE](https://image.ibb.co/eFtp5L/ER-Diagram.png)
 
 
 ## System Design
@@ -69,3 +69,12 @@ o MVC design pattern was used to coding the system.
 • Recourse Tier
 o This tier stores data.
 o MySQL Database Management System was used to store data.
+
+
+## Interfaces
+![IMAGE](https://image.ibb.co/hMXtX0/Home-Window.png)
+![IMAGE](https://image.ibb.co/kWQQef/Customer-Form.png)
+![IMAGE](https://image.ibb.co/j49Jzf/Payments-Form.png)
+![IMAGE](https://image.ibb.co/hjiNQL/Mng-Order-Form.png)
+![IMAGE](https://image.ibb.co/bUW3X0/ItemForm.png)
+
