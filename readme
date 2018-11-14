@@ -14,3 +14,11 @@ implementation. We used some fact-finding methods to gathered information.
 This is the best way to get information from the customer. When in the
 interview we asked various kinds of questions from the client and customer
 will give us the best answers for the project.
+
+#Main functions identified in the minimart:
+
+• Maintaining records of payments.
+• Maintaining items of the stock.
+• Update the supplier information.
+• Maintain the purchase order details.
+• Handle the daily transactions.
