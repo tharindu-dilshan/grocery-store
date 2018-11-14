@@ -1,6 +1,6 @@
 # JAVA Grocery Store
 
-![IMAGE](https://ibb.co/kfQDX0)
+![IMAGE](https://image.ibb.co/hMXtX0/Home-Window.png)
 
 ## Introduction
 To gain the efficiency of the minimart, we try to develop a computerized system to maintain
